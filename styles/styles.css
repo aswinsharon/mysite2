@@ -1,0 +1,22 @@
+.sen{
+        margin: auto;
+        width: 400px;
+        text-align: center;
+        font-family: 'Fascinate', cursive;
+     }
+.song{
+        margin-top: 3.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        width: 30%;
+        font-family: 'Fascinate', cursive;
+        border-style: solid;
+        border-width: thick;
+
+     }
+.inside{
+    margin-left:10px;
+}
+   
+
